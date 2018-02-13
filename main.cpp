@@ -17,5 +17,7 @@ int main()
 
   //tell fortune
 
+  std::cout<< "Welcome, " <<first[0]<<"."<<last[0]<<"."<< ", here is your fortune..."  <<std::endl;
+
   return 0;
 }
